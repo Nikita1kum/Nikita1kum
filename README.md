@@ -52,7 +52,7 @@ I care more about **depth, consistency, and proof of work** than buzzwords.
 
 ### Connect
 - GitHub: [Link](https://github.com/Nikita1kum)
-- LinkedIn: [Limk](https://www.linkedin.com/in/nikita-k-302613240/)
+- LinkedIn: [Link](https://www.linkedin.com/in/nikita-k-302613240/)
 
 ---
 
