@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NIKITA/assets/profile.png" width="900" />
+  <img src="assets/profile.png" width="900" />
 </p>
 
 <h1 align="center">Hi, I'm NIKITA KUMARI 👋</h1>
