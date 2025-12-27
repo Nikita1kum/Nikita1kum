@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/profile.png" width="900" />
+</p>
 
-<!--
-**Nikita1kum/Nikita1kum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm NIKITA KUMARI 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science Student • DSA-Focused • Aspiring Cloud/Devops Engineer 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- CS major building **strong problem-solving foundations**
+- Actively practicing **DSA patterns** for interviews
+- Learning **AWS by building and documenting real workflows** 
+- Sharing progress publicly to stay consistent and accountable
+- I documented the entire AWS learning and reasoning in this [walkthrough demo](https://www.linkedin.com/posts/nikita-k-302613240_aws-amazonwebservices-iam-activity-7396011764154286080-WID7).
+
+
+I care more about **depth, consistency, and proof of work** than buzzwords.
+
+---
+
+### Current Focus
+- 📌 Data Structures & Algorithms (patterns > brute force)
+- ☁️ AWS core services (EC2, S3, IAM, CI/CD basics)
+- 🧠 Writing clean explanations for future reference
+- 🚀 Building in public (Linkedin, GitHub)
+
+---
+
+### Tech Stack
+**Languages & Core**
+- C++ / Java / Python
+- Data Structures & Algorithms
+
+**Cloud & Tools**
+- AWS (EC2, S3, IAM, CodeDeploy, CI/CD)
+- Git, GitHub, Linux(RHEL, Debian, Ubuntu), Docker, 
+
+---
+
+### Featured Repositories
+- 📘 **DSA Patterns Playbook** – structured patterns with explanations  
+- ☁️ **30 Days AWS Challenge** – hands-on AWS learning, documented daily  
+- 🧪 **Practice & Experiments** – small builds, scripts, and notes
+
+*(Pinned repositories tell the real story.)*
+
+---
+
+### Connect
+- GitHub: [Link](https://github.com/Nikita1kum)
+- LinkedIn: [Limk](https://www.linkedin.com/in/nikita-k-302613240/)
+
+---
+
+<p align="center">
+  <sub>Consistency beats intensity. Every time.</sub>
+</p>
