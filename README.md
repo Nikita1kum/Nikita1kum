@@ -7,6 +7,10 @@
 <p align="center">
   Computer Science Student • DSA-Focused • Aspiring Cloud/Devops Engineer 
 </p>
+---
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Nikita1kum&style=flat" />
+</p>
 
 ---
 
