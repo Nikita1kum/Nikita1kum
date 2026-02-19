@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Nikita Kumari 👋</h1>
 
 <p align="center">
-  Computer Science student • DSA & Cloud fundamentals
+  Computer Science student • DevOps & Cloud fundamentals
 </p>
 
 <p align="left">
