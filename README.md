@@ -20,9 +20,6 @@
   Hands-on AWS learning with real workflows and clear documentation  
   → [Walkthrough Demo](https://www.linkedin.com/posts/nikita-k-302613240_aws-amazonwebservices-iam-activity-7396011764154286080-WID7)
 
-- 📘 **DSA Patterns Playbook**  
-  Structured problem-solving patterns with explanations and examples  
-  → *(Repo link here)*
 
 ---
 
